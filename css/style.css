@@ -1,13 +1,15 @@
 body{
 	font-family: 'Lato', sans-serif;
-	color:676858;
+	color:#676858;
 }
 
 .text-muted{
-	color:BCBBBB;
+	color:#BCBBBB;
 }
 .text-super{
 	font-size:60px;
 }
-
-
+h3{
+	color:#747704;
+	font-weight:bold;
+}
