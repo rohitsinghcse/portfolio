@@ -1,8 +1,14 @@
+/**{
+    outline: green solid 1px ;
+}*/
 body{
 	font-family: 'Lato', sans-serif;
 	color:#676858;
 }
 
+.logo{
+  margin-top:20px;
+}
 .text-muted{
 	color:#BCBBBB;
 }
